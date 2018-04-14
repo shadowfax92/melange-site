@@ -1,8 +1,8 @@
 # site settings
-title: Melange
+title: Let's explore...
 subtitle: 
 email: youremailaddress@gmail.com
-description: This site aims at having the assortment of ideas, opinions, interests, experiences, perspectives etc; anything tangible or intangible.
+description: Assortment of ideas, opinions, interests, experiences, perspectives etc.
 baseurl:  # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
