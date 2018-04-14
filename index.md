@@ -2,7 +2,7 @@
 layout: home
 title: Home
 landing-title: 'Melange'
-description: This site aims at having the assortment of ideas, opinions, interests, experiences, perspectives etc; anything tangible or intangible.
+description: null
 image: null
 author: null
 ---
