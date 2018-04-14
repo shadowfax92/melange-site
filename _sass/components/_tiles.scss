@@ -34,7 +34,7 @@
 			min-height: 23em;
 			overflow: hidden;
 			position: relative;
-			width: 25%;
+			width: 33.33%;
 
 			.image {
 				display: none;
@@ -101,11 +101,6 @@
 				@include vendor('filter', 'blur(0.5em)');
 				opacity: 0;
 			}
-
-			/*&:nth-child(4n - 1),
-			&:nth-child(4n - 2) {
-				width: 60%;
-			}*/
 
 			&:nth-child(6n - 5) {
 				&:before {
