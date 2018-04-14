@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: "Let\'s explore..."
+landing-title: "Melange"
 description: null
 image: null
 author: null
