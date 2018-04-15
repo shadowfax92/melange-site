@@ -1,0 +1,16 @@
+<div class="collapsible_post_wrapper">
+            <header class="major">
+                <h1 style="text-transform: capitalize">{{ post.title }}</h1>
+            </header>
+            {% if post.image %}
+                <span class="image left">
+                        <img src="{{ site.baseurl }}/{{ post.image }}" alt="" />
+                </span>
+            {% endif %}
+            <div class="short">
+            </div>
+            <div class="full">
+                    {{ post.content }}	
+            </div>
+            <span class="actions button small showmorebutton" style="text-align:left">Read More</span>
+</div>

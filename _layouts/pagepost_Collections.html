@@ -34,13 +34,8 @@
 	<div class="inner">
 		{% for post in site.posts %}
 		{% if post.layout == 'pagepost_Collections' %}
-		<header class="major">
-			<h1>{{ post.title }}</h1>
-		</header>
-		{% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
-		{% if post.date %}<p>{{ post.date }}</p>{% endif %}
-		<p>{{ post.content }}</p>
-		<div class="divider"></div>
+		{% include collapsible_post.html %}
+			<div style:"height:500px;"></div>
 		{% endif %}
         {% endfor %}
 	</div>
