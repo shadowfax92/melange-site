@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pagepost_Musings
 title: Musings
 landing-title: 'Musings'
 nav-menu: true

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pagepost_Experiences
 title: Experiences
 landing-title: 'Experiences'
 nav-menu: true

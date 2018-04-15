@@ -1,6 +1,6 @@
 ---
 title: Poo & Boo
-layout: page
+layout: pagepost_Pooboo
 description: null
 image: assets/images/pb.jpg
 nav-menu: true
