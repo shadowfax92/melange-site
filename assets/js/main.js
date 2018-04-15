@@ -347,6 +347,33 @@
 
 				});
 
+			// show more function
+			
+			//$(".morelink").click(function(){
+			$(".full").each(function(){
+				var shortLimit = 300;
+				var content = $(this).context.innerText.substr(0, shortLimit);
+				$(this).siblings(".short").html(content);
+				$(this).hide();
+				$(this).siblings(".showmorebutton").addClass("showingLess");
+			});
+
+				$(".showmorebutton").on('click', function(e){
+					if ($(this).hasClass("showingLess")) {
+						$(this).siblings(".full").show();
+						$(this).siblings(".short").hide();
+						$(this).removeClass("showingLess")
+						$(this).text("Show less");
+					}
+					else{
+						$(this).siblings(".full").hide();
+						$(this).siblings(".short").show();
+						$(this).addClass("showingLess");
+						$(this).text("Show More");
+					}
+					return false;
+				});
+
 	});
 
 })(jQuery);
