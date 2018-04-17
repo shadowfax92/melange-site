@@ -352,10 +352,18 @@
 		//$(".morelink").click(function(){
 		$(".full").each(function () {
 			var shortLimit = 300;
+			var originContentLength = $(this).context.innerText.length;
 			var content = $(this).context.innerText.substr(0, shortLimit);
-			$(this).siblings(".short").html(content);
-			$(this).hide();
-			$(this).siblings(".showmorebutton").addClass("showingLess");
+
+			if (originContentLength > shortLimit) {
+				$(this).siblings(".short").html(content);
+				$(this).hide();
+				$(this).siblings(".showmorebutton").addClass("showingLess");
+			}
+			else{
+				// don't show "show more" button
+				$(this).siblings(".showmorebutton").hide();
+			}
 		});
 
 		$(".showmorebutton").on('click', function (e) {
