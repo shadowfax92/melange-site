@@ -359,10 +359,13 @@
 				$(this).siblings(".short").html(content);
 				$(this).hide();
 				$(this).siblings(".showmorebutton").addClass("showingLess");
+				$(this).siblings(".image").addClass("left");
 			}
 			else{
 				// don't show "show more" button
 				$(this).siblings(".showmorebutton").hide();
+				// since post is very small; keep image shrinked
+				$(this).siblings(".image").addClass("left");
 			}
 		});
 
@@ -372,12 +375,14 @@
 				$(this).siblings(".short").hide();
 				$(this).removeClass("showingLess")
 				$(this).text("Show less");
+				$(this).siblings(".image").removeClass("left");
 			}
 			else {
 				$(this).siblings(".full").hide();
 				$(this).siblings(".short").show();
 				$(this).addClass("showingLess");
 				$(this).text("Show More");
+				$(this).siblings(".image").addClass("left");
 			}
 			return false;
 		});
