@@ -376,6 +376,7 @@
 				$(this).removeClass("showingLess")
 				$(this).text("Show less");
 				$(this).siblings(".image").removeClass("left");
+				$(this).siblings(".image").addClass("shrinkFit");
 			}
 			else {
 				$(this).siblings(".full").hide();
@@ -383,6 +384,7 @@
 				$(this).addClass("showingLess");
 				$(this).text("Show More");
 				$(this).siblings(".image").addClass("left");
+				$(this).siblings(".image").removeClass("shrinkFit");
 			}
 			return false;
 		});
