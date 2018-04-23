@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body>
+
+	{% include header.html %}
+	<section id="about">
+		<div class="inner">
+			<section>
+				<span class="image shrinkFit">
+					<img src="{{ site.baseurl }}/{{ page.image }}" alt="">
+				</span>
+			</section>
+			<section class="split">
+				<section>
+					<header class="major">
+						<h2 style="text-transform: capitalize;">{{ page.title }}</h2>
+					</header>
+					<div class="content">
+						{{ page.description }}
+					</div>
+				</section>
+
+			</section>
+		</div>
+	</section>
+	<div>
+		{% include empty_footer.html %}
+	</div>
+
+</body>
+
+</html>
