@@ -1,6 +1,8 @@
 <div class="clearfix collapsible_post">
             <header class="major collapsible_post_h1">
-                <h2 style="text-transform: capitalize">{{ post.title }}</h1>
+                <h2 style="text-transform: capitalize">
+                    <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
+                </h2>
             </header>
             {% if post.image %}
                 <span class="image">
@@ -10,7 +12,7 @@
             <div class="short">
             </div>
             <div class="full">
-                    {{ post.content }}	
+                    {{ post.content }}
             </div>
             <span class="actions button small showmorebutton" style="text-align:left">Read More</span>
 </div>
