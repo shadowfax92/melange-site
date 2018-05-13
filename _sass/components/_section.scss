@@ -68,3 +68,25 @@
 			}
 		}
 	}
+
+	.pagination a, .pagination span {
+		padding: 7px 18px;
+		border: 1px solid #333;
+		margin-left: -2px;
+		margin-right: -2px;
+		background-color: #14c7be;
+		display: inline-block;
+		font-weight:bold;
+		box-sizing: border-box;
+	  }
+	
+	.pagination a {    
+		&:hover {
+			background-color: #f1f1f1;
+			color: #333;
+		}
+	 }
+	
+	.pagination {
+		text-align: center;
+	 }
