@@ -17,6 +17,11 @@ country: India
 tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 4
 
+plugins: [jekyll-paginate] 
+paginate: 4
+paginate_path: "/allposts/page:num/"
+
+
 # social settings
 500px_url:
 facebook_url:
