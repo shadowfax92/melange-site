@@ -1,7 +1,6 @@
 ---
 title: My experience with 10-days Vipassana course
 layout: post
-description: ...
 nav-menu: true
 image: assets/images/vip.jpeg
 ---
