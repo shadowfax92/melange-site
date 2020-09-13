@@ -74,12 +74,12 @@ The next day we headed down towards the Penzance, where our AirBnB booked for th
 On the way to our accommodation our first stop was(almost) Padstow. Padstow is supposed to be a pretty fishing village. Well, we did enter into the place and headed to the car park, but that is where misfortune stuck us. There was no space available. We tried all the car parks in that village but nothing worked out, so disappointed we had to leave. Then on the spot, we decided to visit St Agnes. We chose this because this heritage site was close(of a drive) to Padstow. It was an impromptu stop for us mostly to get over our disappointment of not being able to visit Padstow, but we were pleasantly surprised when we reached this place. What a beauty nestled in a valley surrounded by magnificent hills! The driving was scary, for sure! as it quite a steep narrow road down the valley, but definitely well worth it.
 <br />
 <br />
-Walk towards the beach
+<!-- Walk towards the beach -->
 <figure>
+<figcaption style="text-align: center;">Walk towards the beach</figcaption>
 <img src="/melange-site/assets/images/cornwall/9.jpg"
      alt="Walk towards the beach"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
-     <!-- <figcaption style="text-align: center;">Walk towards the beach</figcaption> -->
 </figure>
 <br />
 <figure>
@@ -194,8 +194,9 @@ The harbor was almost non-existent due to low tide, finally we came to a small c
 </figure>
 <br />
 <br />
-After spending some time here, we started for St Nectans Glen. After reaching the St Nectans Glen's car park, we had to walk for around 30 mins to reach the waterfall. It was a very pleasant walk because we were almost in a forest, the aura felt so calm and magical. Definitely one of my favorite places in Cornwall. Some of the shots of the walk:-
+After spending some time here, we started for St Nectans Glen. After reaching the St Nectans Glen's car park, we had to walk for around 30 mins to reach the waterfall. It was a very pleasant walk because we were almost in a forest, the aura felt so calm and magical. Definitely one of my favorite places in Cornwall. 
 <figure>
+<figcaption style="text-align: center;">Some of the shots of the walk</figcaption>
 <img src="/melange-site/assets/images/cornwall/25.jpg"
      alt=""
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
@@ -233,8 +234,8 @@ Tintagel bridge is footbridge that connects two cliffs. The height of the bridge
 </figure>
 <br />
 <br />
-There were some fascinating views looking out from the castle.
 <figure>
+<figcaption style="text-align: center;">There were some fascinating views looking out from the castle.</figcaption>
 <img src="/melange-site/assets/images/cornwall/30.jpg"
      alt=""
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
