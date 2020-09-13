@@ -99,11 +99,11 @@ There was small water body in the middle of the beach which was pretty cute.
 <br />
 <br />
 Our final destination for the day was St Ives (I guess the most popular city in Cornwall). St Ives was pretty close to Gwithian beach so it didn’t take long for us to reach here. We parked our car and from there it was a walk down to the city and the harbor. 
-<img src="/assets/images/cornwall/16.jpg"
+<img src="/melange-site/assets/images/cornwall/16.jpg"
      alt="Markdown Monster icon"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 <br />
-<img src="/assets/images/cornwall/17.jpg"
+<img src="/melange-site/assets/images/cornwall/17.jpg"
      alt="Markdown Monster icon"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 <br />
