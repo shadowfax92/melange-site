@@ -20,16 +20,13 @@ The view just after we started our walk down to the village. It was a pretty day
      <figcaption style="text-align: center;"></figcaption>
 </figure>
 <br />
-<br />
 <!-- On our way down to the harbor. -->
 <figure>
 <img src="/melange-site/assets/images/cornwall/2.jpg"
      alt="On our way down to the harbor."
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
-     <figcaption style="text-align: center;">On our way down to the harbor.</figcaption>
+     <figcaption style="text-align: center;">On our way down to the harbor</figcaption>
 </figure>
-<br />
-
 <br />
 <!-- We met a cute cat lounging in the breathtaking ocean views. -->
 <figure>
@@ -39,7 +36,6 @@ The view just after we started our walk down to the village. It was a pretty day
      <figcaption style="text-align: center;">We met a cute cat lounging in the breathtaking ocean views</figcaption>
 </figure>
 <br />
-<br />
 <!-- This is the ‘road’ of the village. Coming up on this path was a good exercise for the day :) -->
 <figure>
 <img src="/melange-site/assets/images/cornwall/4.jpg"
@@ -47,7 +43,6 @@ The view just after we started our walk down to the village. It was a pretty day
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
      <figcaption style="text-align: center;">This is the ‘road’ of the village. Coming up on this path was a good exercise for the day :)</figcaption>
 </figure>
-<br />
 <br />
 <!-- At harbor, basking in the sun! -->
 <figure>
@@ -82,11 +77,9 @@ On the way to our accommodation our first stop was(almost) Padstow. Padstow is s
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 </figure>
 <br />
-<figure>
 <img src="/melange-site/assets/images/cornwall/10.jpg"
      alt=""
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
-</figure>
 <br />
 <br />
 This beach was pretty raw and rugged, and I think that was one of the reasons what made this because so special. We had our lunch of co-op purchased sandwiches and the cookies at the beach.
@@ -113,9 +106,9 @@ Next we headed toward Gwithian beach. I had heard that it is one of the pretties
 <!-- There was small water body in the middle of the beach which was pretty cute. -->
 <figure>
 <img src="/melange-site/assets/images/cornwall/15.jpg"
-     alt="here was small water body in the middle of the beach which was pretty cute"
+     alt="There was small water body in the middle of the beach which was pretty cute"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
-     <figcaption style="text-align: center;">here was small water body in the middle of the beach which was pretty cute</figcaption>
+     <figcaption style="text-align: center;">There was small water body in the middle of the beach which was pretty cute</figcaption>
 </figure>
 <br />
 <br />
@@ -209,7 +202,7 @@ Tintagel bridge is footbridge that connects two cliffs. The height of the bridge
 <br />
 <br />
 <figure>
-<figcaption style="text-align: center;">There were some fascinating views looking out from the castle.</figcaption>
+<figcaption style="text-align: center;">There were some fascinating views looking out from the castle</figcaption>
 <img src="/melange-site/assets/images/cornwall/30.jpg"
      alt=""
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
