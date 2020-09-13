@@ -13,7 +13,6 @@ We took a train from London which was to take us to Plymouth, from there we were
 Clovelly is a small fishing village in the Devon county. It doesn’t have any paved roads. Every visitor has to buy a ticket for the entry to the place which seems little expensive but I would say that the experience of roaming around that enchanting place is worth the cost of one-time visit. The path to the harbor is quite steep, so it can be strenuous for some people, especially on rainy days because the ‘stone road’ is just paved with stone chunks and hence can get slippery.
 <br />
 The view just after we started our walk down to the village. It was a pretty day!
-<br />
 <figure>
 <img src="/melange-site/assets/images/cornwall/1.jpg"
      alt=""
@@ -77,7 +76,7 @@ On the way to our accommodation our first stop was(almost) Padstow. Padstow is s
 <br />
 Walk towards the beach
 <figure>
-<img src="/assets/images/cornwall/9.jpg"
+<img src="/melange-site/assets/images/cornwall/9.jpg"
      alt="Walk towards the beach"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
      <!-- <figcaption style="text-align: center;">Walk towards the beach</figcaption> -->
@@ -118,9 +117,9 @@ Next we headed toward Gwithian beach. I had heard that it is one of the pretties
 <!-- There was small water body in the middle of the beach which was pretty cute. -->
 <figure>
 <img src="/melange-site/assets/images/cornwall/15.jpg"
-     alt="This is the ‘road’ of the village. Coming up on this path was a good exercise for the day"
+     alt="here was small water body in the middle of the beach which was pretty cute"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
-     <figcaption style="text-align: center;">This is the ‘road’ of the village. Coming up on this path was a good exercise for the day :)</figcaption>
+     <figcaption style="text-align: center;">here was small water body in the middle of the beach which was pretty cute</figcaption>
 </figure>
 <br />
 <br />
@@ -148,7 +147,6 @@ First we went to the Porthmeor beach. It was nice, and felt quite calm even in t
 <img src="/melange-site/assets/images/cornwall/20.jpg"
      alt=""
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
-</figure>
 <br />
 <br />
 After spending some time on the beach, we headed to the harbour. It was crowded, but beautiful.
@@ -269,6 +267,7 @@ One has to walk down in order to exit the castle. After climbing down we decided
 <img src="/melange-site/assets/images/cornwall/32.jpg"
      alt="Nikhil in Merlin’s Cave"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
+     <figcaption style="text-align: center;">Nikhil in Merlin’s Cave</figcaption>
 </figure>
 <br />
 <br />
