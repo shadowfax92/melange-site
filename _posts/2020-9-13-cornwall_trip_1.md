@@ -2,7 +2,7 @@
 title: Trip to Cornwall - Day 1, 2 & 3 
 layout: post
 nav-menu: true
-image: assets/images/cornwall/title.JPG
+image: assets/images/cornwall/title.jpg
 ---
 
 Day 1: 3.5 hours train trip from London to Plymouth, Clovelly
@@ -16,39 +16,39 @@ The view just after we started our walk down to the village. It was a pretty day
 <br />
 <figure>
     <figcaption>Caption goes here</figcaption>
-<img src="/assets/images/cornwall/1.jpg"
+<img src="/melange-site/assets/images/cornwall/1.jpg"
      alt="Markdown Monster icon"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 </figure>
 <br />
 <br />
 On our way down to the harbor.
-<img src="/assets/images/cornwall/2.jpg"
+<img src="/melange-site/assets/images/cornwall/2.jpg"
      alt="Markdown Monster icon"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 <br />
 
 <br />
 We met a cute cat lounging in the breathtaking ocean views.
-<img src="/assets/images/cornwall/3.jpg"
+<img src="/melange-site/assets/images/cornwall/3.jpg"
      alt="Markdown Monster icon"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 <br />
 <br />
 This is the ‘road’ of the village. Coming up on this path was a good exercise for the day :)
-<img src="/assets/images/cornwall/4.jpg"
+<img src="/melange-site/assets/images/cornwall/4.jpg"
      alt="Markdown Monster icon"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 <br />
 <br />
 At harbor, basking in the sun!
-<img src="/assets/images/cornwall/5.jpg"
+<img src="/melange-site/assets/images/cornwall/5.jpg"
      alt="Markdown Monster icon"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 <br />
 <br />
 We spent around 1.5-2 hours in this place. Then we headed to our hotel to rest for the night. We stayed at West County Inn hotel.
-<img src="/assets/images/cornwall/7.jpg"
+<img src="/melange-site/assets/images/cornwall/7.jpg"
      alt="Markdown Monster icon"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 <br />
@@ -64,66 +64,66 @@ On the way to our accommodation our first stop was(almost) Padstow. Padstow is s
 <br />
 <br />
 Walk towards the beach
-<img src="/assets/images/cornwall/9.jpg"
+<img src="/melange-site/assets/images/cornwall/9.jpg"
      alt="Markdown Monster icon"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 <br />
-<img src="/assets/images/cornwall/10.jpg"
+<img src="/melange-site/assets/images/cornwall/10.jpg"
      alt="Markdown Monster icon"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 <br />
 <br />
 This beach was pretty raw and rugged, and I think that was one of the reasons what made this because so special. We had our lunch of co-op purchased sandwiches and the cookies at the beach.
-<img src="/assets/images/cornwall/11.jpg"
+<img src="/melange-site/assets/images/cornwall/11.jpg"
      alt="Markdown Monster icon"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 <br />
 <br />
 There was a short hike up one of the hills (well, it was a proper hiking path but we only covered a small part of it since there was a barrier at some distance and we decided(out of tiredness and apprehension) to stop there.
 View from there (you can see the barrier in the right)
-<img src="/assets/images/cornwall/13.JPG"
+<img src="/melange-site/assets/images/cornwall/13.jpg"
      alt="Markdown Monster icon"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 <br />
 <br />
 Next we headed toward Gwithian beach. I had heard that it is one of the prettiest beaches in Cornwall, hence naturally I was very excited about it. Well, it was a fine beach but nowhere as pretty as I expected it to be(as per my taste).
-<img src="/assets/images/cornwall/14.JPG"
+<img src="/melange-site/assets/images/cornwall/14.jpg"
      alt="Markdown Monster icon"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 <br />
 <br />
 There was small water body in the middle of the beach which was pretty cute.
-<img src="/assets/images/cornwall/15.JPG"
+<img src="/melange-site/assets/images/cornwall/15.jpg"
      alt="Markdown Monster icon"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 <br />
 <br />
 Our final destination for the day was St Ives (I guess the most popular city in Cornwall). St Ives was pretty close to Gwithian beach so it didn’t take long for us to reach here. We parked our car and from there it was a walk down to the city and the harbor. 
-<img src="/assets/images/cornwall/16.JPG"
+<img src="/assets/images/cornwall/16.jpg"
      alt="Markdown Monster icon"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 <br />
-<img src="/assets/images/cornwall/17.JPG"
+<img src="/assets/images/cornwall/17.jpg"
      alt="Markdown Monster icon"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 <br />
-<img src="/assets/images/cornwall/18.JPG"
+<img src="/melange-site/assets/images/cornwall/18.jpg"
      alt="Markdown Monster icon"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 <br />
 <br />
 First we went to the Porthmeor beach. It was nice, and felt quite calm even in the middle of a busy city like St Ives.
-<img src="/assets/images/cornwall/20.JPG"
+<img src="/melange-site/assets/images/cornwall/20.jpg"
      alt="Markdown Monster icon"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 <br />
 <br />
 After spending some time on the beach, we headed to the harbour. It was crowded, but beautiful.
-<img src="/assets/images/cornwall/21.JPG"
+<img src="/melange-site/assets/images/cornwall/21.jpg"
      alt="Markdown Monster icon"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 <br />
-<img src="/assets/images/cornwall/22.JPG"
+<img src="/melange-site/assets/images/cornwall/22.jpg"
      alt="Markdown Monster icon"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 <br />
@@ -136,81 +136,81 @@ Day 3: Boscastle, St. Nectan’s Glen, Tintagel Castle & Merlin Cave
 Our airbnb hostess was a very lovely lady. She used to provide sumptuous breakfast every morning despite the COVID restrictions on the minimum contact. 
 <br />
 This was our breakfast every morning
-<img src="/assets/images/cornwall/breakfast.JPG"
+<img src="/melange-site/assets/images/cornwall/breakfast.jpg"
      alt="Markdown Monster icon"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 <br />
 <br />
 After breakfast, we headed to Boscastle, which is again a small fishing village nestled in mountains. It is a very small and a cute village. A stream/river(not sure) passes in the middle of the “center” of the village with makes the ambience very charming.
-<img src="/assets/images/cornwall/23.JPG"
+<img src="/melange-site/assets/images/cornwall/23.jpg"
      alt="Markdown Monster icon"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 <br />
 <br />
 The harbor was almost non-existent due to low tide, finally we came to a small cliff which overlooked the “passage" to the sea.
-<img src="/assets/images/cornwall/24.JPG"
+<img src="/melange-site/assets/images/cornwall/24.jpg"
      alt="Markdown Monster icon"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 <br />
 <br />
 After spending some time here, we started for St Nectans Glen. After reaching the St Nectans Glen's car park, we had to walk for around 30 mins to reach the waterfall. It was a very pleasant walk because we were almost in a forest, the aura felt so calm and magical. Definitely one of my favorite places in Cornwall. Some of the shots of the walk:-
-<img src="/assets/images/cornwall/25.JPG"
+<img src="/melange-site/assets/images/cornwall/25.jpg"
      alt="Markdown Monster icon"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 <br />
 <br />
-<img src="/assets/images/cornwall/26.JPG"
+<img src="/melange-site/assets/images/cornwall/26.jpg"
      alt="Markdown Monster icon"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 <br />
 <br />
-<img src="/assets/images/cornwall/27.JPG"
+<img src="/melange-site/assets/images/cornwall/27.jpg"
      alt="Markdown Monster icon"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 <br />
 <br />
 When we finally reached to the waterfall, it was even better. The waterfall is such that one can go near it, so the beauty is there without the general intimidation of the natural force.
-<img src="/assets/images/cornwall/28.JPG"
+<img src="/melange-site/assets/images/cornwall/28.jpg"
      alt="Markdown Monster icon"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 <br />
 <br />
 Next we headed to the Tintagel castle which is known for being the birthplace of King Arthur and for its outstanding views to sea due to the imposing height that it is build on.
 Tintagel bridge is footbridge that connects two cliffs. The height of the bridge(52 meters) can seem terrifying for some people.
-<img src="/assets/images/cornwall/29_1.JPG"
+<img src="/melange-site/assets/images/cornwall/29_1.jpg"
      alt="Markdown Monster icon"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 <br />
 <br />
 There were some fascinating views looking out from the castle.
-<img src="/assets/images/cornwall/30.JPG"
+<img src="/melange-site/assets/images/cornwall/30.jpg"
      alt="Markdown Monster icon"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 <br />
 <br />
-<img src="/assets/images/cornwall/33.JPG"
+<img src="/melange-site/assets/images/cornwall/33.jpg"
      alt="Markdown Monster icon"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 <br />
 <br />
 One has to walk down in order to exit the castle. After climbing down we decided to go to the beach where a waterfall and the Merlin’s cave is located.
-<img src="/assets/images/cornwall/35.JPG"
+<img src="/melange-site/assets/images/cornwall/35.jpg"
      alt="Markdown Monster icon"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 <br />
 <br />
-<img src="/assets/images/cornwall/31.JPG"
+<img src="/melange-site/assets/images/cornwall/31.jpg"
      alt="Markdown Monster icon"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 <br />
 Nikhil in Merlin’s Cave
-<img src="/assets/images/cornwall/32.JPG"
+<img src="/melange-site/assets/images/cornwall/32.jpg"
      alt="Markdown Monster icon"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 <br />
 <br />
 After that we headed down to Penzance for our dinner. We ate at Sea Palace Chinese restaurant which served us amazing veg chowmein and fried rice. The evening view at Penzance was very pleasing. 
-<img src="/assets/images/cornwall/34.JPG"
+<img src="/melange-site/assets/images/cornwall/34.jpg"
      alt="Markdown Monster icon"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 <br />
