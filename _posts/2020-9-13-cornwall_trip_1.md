@@ -90,11 +90,9 @@ On the way to our accommodation our first stop was(almost) Padstow. Padstow is s
 <br />
 <br />
 This beach was pretty raw and rugged, and I think that was one of the reasons what made this because so special. We had our lunch of co-op purchased sandwiches and the cookies at the beach.
-<figure>
 <img src="/melange-site/assets/images/cornwall/11.jpg"
      alt=""
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
-</figure>
 <br />
 <br />
 There was a short hike up one of the hills (well, it was a proper hiking path but we only covered a small part of it since there was a barrier at some distance and we decided(out of tiredness and apprehension) to stop there.
@@ -107,11 +105,9 @@ There was a short hike up one of the hills (well, it was a proper hiking path bu
 <br />
 <br />
 Next we headed toward Gwithian beach. I had heard that it is one of the prettiest beaches in Cornwall, hence naturally I was very excited about it. Well, it was a fine beach but nowhere as pretty as I expected it to be(as per my taste).
-<figure>
 <img src="/melange-site/assets/images/cornwall/14.jpg"
      alt=""
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
-</figure>
 <br />
 <br />
 <!-- There was small water body in the middle of the beach which was pretty cute. -->
@@ -124,23 +120,17 @@ Next we headed toward Gwithian beach. I had heard that it is one of the pretties
 <br />
 <br />
 Our final destination for the day was St Ives (I guess the most popular city in Cornwall). St Ives was pretty close to Gwithian beach so it didn’t take long for us to reach here. We parked our car and from there it was a walk down to the city and the harbor. 
-<figure>
 <img src="/melange-site/assets/images/cornwall/16.jpg"
      alt=""
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
-</figure>
 <br />
-<figure>
 <img src="/melange-site/assets/images/cornwall/17.jpg"
      alt=""
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
-</figure>
 <br />
-<figure>
 <img src="/melange-site/assets/images/cornwall/18.jpg"
      alt=""
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
-</figure>
 <br />
 <br />
 First we went to the Porthmeor beach. It was nice, and felt quite calm even in the middle of a busy city like St Ives.
@@ -150,17 +140,13 @@ First we went to the Porthmeor beach. It was nice, and felt quite calm even in t
 <br />
 <br />
 After spending some time on the beach, we headed to the harbour. It was crowded, but beautiful.
-<figure>
 <img src="/melange-site/assets/images/cornwall/21.jpg"
      alt=""
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
-</figure>
 <br />
-<figure>
 <img src="/melange-site/assets/images/cornwall/22.jpg"
      alt=""
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
-</figure>
 <br />
 <br />
 Finally we ordered a takeout from a Mexican place, The Mex. Our vegetarian meal of burritos and enchiladas was savory and tasty.
@@ -179,19 +165,15 @@ Our airbnb hostess was a very lovely lady. She used to provide sumptuous breakfa
 <br />
 <br />
 After breakfast, we headed to Boscastle, which is again a small fishing village nestled in mountains. It is a very small and a cute village. A stream/river(not sure) passes in the middle of the “center” of the village with makes the ambience very charming.
-<figure>
 <img src="/melange-site/assets/images/cornwall/23.jpg"
      alt=""
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
-</figure>
 <br />
 <br />
 The harbor was almost non-existent due to low tide, finally we came to a small cliff which overlooked the “passage" to the sea.
-<figure>
 <img src="/melange-site/assets/images/cornwall/24.jpg"
      alt=""
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
-</figure>
 <br />
 <br />
 After spending some time here, we started for St Nectans Glen. After reaching the St Nectans Glen's car park, we had to walk for around 30 mins to reach the waterfall. It was a very pleasant walk because we were almost in a forest, the aura felt so calm and magical. Definitely one of my favorite places in Cornwall. 
@@ -203,35 +185,27 @@ After spending some time here, we started for St Nectans Glen. After reaching th
 </figure>
 <br />
 <br />
-<figure>
 <img src="/melange-site/assets/images/cornwall/26.jpg"
      alt=""
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
-</figure>
 <br />
 <br />
-<figure>
 <img src="/melange-site/assets/images/cornwall/27.jpg"
      alt=""
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
-</figure>
 <br />
 <br />
 When we finally reached to the waterfall, it was even better. The waterfall is such that one can go near it, so the beauty is there without the general intimidation of the natural force.
-<figure>
 <img src="/melange-site/assets/images/cornwall/28.jpg"
      alt=""
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
-</figure>
 <br />
 <br />
 Next we headed to the Tintagel castle which is known for being the birthplace of King Arthur and for its outstanding views to sea due to the imposing height that it is build on.
 Tintagel bridge is footbridge that connects two cliffs. The height of the bridge(52 meters) can seem terrifying for some people.
-<figure>
 <img src="/melange-site/assets/images/cornwall/29_1.jpg"
      alt=""
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
-</figure>
 <br />
 <br />
 <figure>
@@ -242,26 +216,19 @@ Tintagel bridge is footbridge that connects two cliffs. The height of the bridge
 </figure>
 <br />
 <br />
-<figure>
 <img src="/melange-site/assets/images/cornwall/33.jpg"
      alt=""
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
-</figure>
 <br />
 <br />
 One has to walk down in order to exit the castle. After climbing down we decided to go to the beach where a waterfall and the Merlin’s cave is located.
-<figure>
 <img src="/melange-site/assets/images/cornwall/35.jpg"
      alt=""
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
-</figure>
 <br />
-
-<figure>
 <img src="/melange-site/assets/images/cornwall/31.jpg"
      alt=""
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
-</figure>
 <br />
 
 <figure>
