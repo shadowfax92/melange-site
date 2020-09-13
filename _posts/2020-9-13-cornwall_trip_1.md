@@ -102,7 +102,6 @@ Next we headed toward Gwithian beach. I had heard that it is one of the pretties
      alt=""
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 <br />
-<br />
 <!-- There was small water body in the middle of the beach which was pretty cute. -->
 <figure>
 <img src="/melange-site/assets/images/cornwall/15.jpg"
@@ -177,11 +176,9 @@ After spending some time here, we started for St Nectans Glen. After reaching th
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 </figure>
 <br />
-<br />
 <img src="/melange-site/assets/images/cornwall/26.jpg"
      alt=""
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
-<br />
 <br />
 <img src="/melange-site/assets/images/cornwall/27.jpg"
      alt=""
@@ -207,7 +204,6 @@ Tintagel bridge is footbridge that connects two cliffs. The height of the bridge
      alt=""
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 </figure>
-<br />
 <br />
 <img src="/melange-site/assets/images/cornwall/33.jpg"
      alt=""
