@@ -65,7 +65,7 @@ PLATFORMS
 DEPENDENCIES
   bundler (~> 1.12)
   forty_jekyll_theme!
-  jekyll
+  jekyll (~> 3.7)
   jekyll-paginate
 
 BUNDLED WITH

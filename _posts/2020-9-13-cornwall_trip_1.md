@@ -170,7 +170,7 @@ The harbor was almost non-existent due to low tide, finally we came to a small c
 After spending some time here, we started for St Nectans Glen. After reaching the St Nectans Glen's car park, we had to walk for around 30 mins to reach the waterfall. It was a very pleasant walk because we were almost in a forest, the aura felt so calm and magical. Definitely one of my favorite places in Cornwall. 
 <figure>
 <figcaption style="text-align: center;">Some of the shots of the walk</figcaption>
-<img src="/melange-site/assets/images/cornwall/walk_st_nectan_3.jpg"
+<img src="/melange-site/assets/images/cornwall/walk_st_nectane_2.jpg"
      alt=""
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 </figure>
@@ -179,19 +179,15 @@ After spending some time here, we started for St Nectans Glen. After reaching th
      alt=""
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 <br />
-<img src="/melange-site/assets/images/cornwall/walk_st_nectan_2.jpg"
+<img src="/melange-site/assets/images/cornwall/walk_st_nectan_3.jpg"
      alt=""
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 <br />
 <br />
 When we finally reached to the waterfall, it was even better. The waterfall is such that one can go near it, so the beauty is there without the general intimidation of the natural force.
-<img src="/melange-site/assets/images/cornwall/28.jpg"
+<img src="/melange-site/assets/images/cornwall/waterfall.gif"
      alt=""
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
-<video width="320" height="240" controls>
-  <source src="/assets/images/cornwall/video.mov" type="video/mp4">
-Your browser does not support the video tag.
-</video>
 <br />
 <br />
 Next we headed to the Tintagel castle which is known for being the birthplace of King Arthur and for its outstanding views to sea due to the imposing height that it is build on.
