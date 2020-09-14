@@ -1,5 +1,5 @@
 ---
-title: Trip to Cornwall - Day 1, 2 & 3 
+title: Trip to Cornwall - Day 4, 5 & 6 
 layout: post
 nav-menu: true
 image: assets/images/cornwall/title.jpg

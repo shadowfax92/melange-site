@@ -45,10 +45,10 @@ The view just after we started our walk down to the village. It was a pretty day
 <br />
 <!-- At harbor, basking in the sun! -->
 <figure>
-<img src="/melange-site/assets/images/cornwall/5.jpg"
-     alt="At harbor, basking in the sun!"
+<img src="/melange-site/assets/images/cornwall/basking_in_sun.jpg"
+     alt="At harbor!"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
-     <figcaption style="text-align: center;">At harbor, basking in the sun!</figcaption>
+     <figcaption style="text-align: center;">At harbor!</figcaption>
 </figure>
 <br />
 <br />
@@ -82,7 +82,7 @@ On the way to our accommodation our first stop was(almost) Padstow. Padstow is s
 <br />
 <br />
 This beach was pretty raw and rugged, and I think that was one of the reasons what made this because so special. We had our lunch of co-op purchased sandwiches and the cookies at the beach.
-<img src="/melange-site/assets/images/cornwall/11.jpg"
+<img src="/melange-site/assets/images/cornwall/rugged.jpg"
      alt=""
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 <br />
@@ -103,7 +103,7 @@ Next we headed toward Gwithian beach. I had heard that it is one of the pretties
 <br />
 <!-- There was small water body in the middle of the beach which was pretty cute. -->
 <figure>
-<img src="/melange-site/assets/images/cornwall/15.jpg"
+<img src="/melange-site/assets/images/cornwall/middle_lake.jpg"
      alt="There was small water body in the middle of the beach which was pretty cute"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
      <figcaption style="text-align: center;">There was small water body in the middle of the beach which was pretty cute</figcaption>
@@ -170,7 +170,7 @@ The harbor was almost non-existent due to low tide, finally we came to a small c
 After spending some time here, we started for St Nectans Glen. After reaching the St Nectans Glen's car park, we had to walk for around 30 mins to reach the waterfall. It was a very pleasant walk because we were almost in a forest, the aura felt so calm and magical. Definitely one of my favorite places in Cornwall. 
 <figure>
 <figcaption style="text-align: center;">Some of the shots of the walk</figcaption>
-<img src="/melange-site/assets/images/cornwall/25.jpg"
+<img src="/melange-site/assets/images/cornwall/walk_st_nectan_3.jpg"
      alt=""
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 </figure>
@@ -179,7 +179,7 @@ After spending some time here, we started for St Nectans Glen. After reaching th
      alt=""
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 <br />
-<img src="/melange-site/assets/images/cornwall/27.jpg"
+<img src="/melange-site/assets/images/cornwall/walk_st_nectan_2.jpg"
      alt=""
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 <br />
@@ -188,11 +188,15 @@ When we finally reached to the waterfall, it was even better. The waterfall is s
 <img src="/melange-site/assets/images/cornwall/28.jpg"
      alt=""
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
+<video width="320" height="240" controls>
+  <source src="/assets/images/cornwall/video.mov" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 <br />
 <br />
 Next we headed to the Tintagel castle which is known for being the birthplace of King Arthur and for its outstanding views to sea due to the imposing height that it is build on.
 Tintagel bridge is footbridge that connects two cliffs. The height of the bridge(52 meters) can seem terrifying for some people.
-<img src="/melange-site/assets/images/cornwall/29_1.jpg"
+<img src="/melange-site/assets/images/cornwall/bridge.jpg"
      alt=""
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 <br />
@@ -220,10 +224,10 @@ One has to walk down in order to exit the castle. After climbing down we decided
 <br />
 
 <figure>
-<img src="/melange-site/assets/images/cornwall/32.jpg"
-     alt="Nikhil in Merlin’s Cave"
+<img src="/melange-site/assets/images/cornwall/mcave.jpg"
+     alt="In Merlin’s Cave"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
-     <figcaption style="text-align: center;">Nikhil in Merlin’s Cave</figcaption>
+     <figcaption style="text-align: center;">In Merlin’s Cave</figcaption>
 </figure>
 <br />
 <br />
@@ -236,4 +240,3 @@ After that we headed down to Penzance for our dinner. We ate at Sea Palace Chine
 </figure>
 <br />
 <br />
-![](/melange-site/assets/images/cornwall/vid.mov)
