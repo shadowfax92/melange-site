@@ -5,8 +5,7 @@ nav-menu: true
 image: assets/images/cornwall/title.jpg
 ---
 
-Day 1: 3.5 hours train trip from London to Plymouth, Clovelly
-<br />
+<font size="6"> Day 1: 3.5 hours train trip from London to Plymouth, Clovelly</font>
 I and my husband had a 6-days vacation to Cornwall, a south-western county in England. I like the sea, it has a sort of therapeutic effect on me. 
 <br />
 We took a train from London which was to take us to Plymouth, from there we were to rent a car and travel to Clovelly.
@@ -62,7 +61,7 @@ We were ravenous by the time we reached, so we freshened up quickly in order to 
 <br />
 <br />
 <br />
-Day 2: St Ages, Gwithian Beach & St. Ives
+<font size="6"> Day 2: St Ages, Gwithian Beach & St. Ives</font>
 <br />
 The next day we headed down towards the Penzance, where our AirBnB booked for the next 5-days was waiting for us. I think we did a mistake in this case. While Airbnb we stayed at was amazing, but every day we had to drive up and down a lot to go to places like Tintagel, Fowey, etc. Something in the middle of the county might have had proved better in terms of commute.
 <br />
@@ -144,7 +143,7 @@ After spending some time on the beach, we headed to the harbour. It was crowded,
 Finally we ordered a takeout from a Mexican place, The Mex. Our vegetarian meal of burritos and enchiladas was savory and tasty.
 <br />
 <br />
-Day 3: Boscastle, St. Nectan’s Glen, Tintagel Castle & Merlin Cave
+<font size="6"> Day 3: Boscastle, St. Nectan’s Glen, Tintagel Castle & Merlin Cave</font>
 <br />
 Our airbnb hostess was a very lovely lady. She used to provide sumptuous breakfast every morning despite the COVID restrictions on the minimum contact. 
 <br />
@@ -237,3 +236,4 @@ After that we headed down to Penzance for our dinner. We ate at Sea Palace Chine
 </figure>
 <br />
 <br />
+![](/melange-site/assets/images/cornwall/vid.mov)
