@@ -6,7 +6,6 @@ image: assets/images/cornwall/title.jpg
 ---
 
 <font size="6"> Day 1: 3.5 hours train trip from London to Plymouth, Clovelly</font>
-<br />
 I and my husband had a 6-days vacation to Cornwall, a south-western county in England. I like the sea, it has a sort of therapeutic effect on me. 
 <br />
 We took a train from London which was to take us to Plymouth, from there we were to rent a car and travel to Clovelly.
