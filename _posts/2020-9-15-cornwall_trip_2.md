@@ -5,7 +5,7 @@ nav-menu: true
 image: assets/images/cornwall/title.jpg
 ---
 
-<font size="10"> Day 1 </font>: 3.5 hours train trip from London to Plymouth, Clovelly
+<font size="4"> Day 1 </font>: 3.5 hours train trip from London to Plymouth, Clovelly
 <br />
 I and my husband had a 6-days vacation to Cornwall, a south-western county in England. I like the sea, it has a sort of therapeutic effect on me. 
 <br />
@@ -62,7 +62,7 @@ We were ravenous by the time we reached, so we freshened up quickly in order to 
 <br />
 <br />
 <br />
-<font size="10"> Day 2 </font>: St Ages, Gwithian Beach & St. Ives
+<font size="4"> Day 2 </font>: St Ages, Gwithian Beach & St. Ives
 <br />
 The next day we headed down towards the Penzance, where our AirBnB booked for the next 5-days was waiting for us. I think we did a mistake in this case. While Airbnb we stayed at was amazing, but every day we had to drive up and down a lot to go to places like Tintagel, Fowey, etc. Something in the middle of the county might have had proved better in terms of commute.
 <br />
@@ -144,7 +144,7 @@ After spending some time on the beach, we headed to the harbour. It was crowded,
 Finally we ordered a takeout from a Mexican place, The Mex. Our vegetarian meal of burritos and enchiladas was savory and tasty.
 <br />
 <br />
-<font size="10"> Day 3 </font>: Boscastle, St. Nectan’s Glen, Tintagel Castle & Merlin Cave
+<font size="4"> Day 3 </font>: Boscastle, St. Nectan’s Glen, Tintagel Castle & Merlin Cave
 <br />
 Our airbnb hostess was a very lovely lady. She used to provide sumptuous breakfast every morning despite the COVID restrictions on the minimum contact. 
 <br />
