@@ -6,7 +6,7 @@ image: assets/images/cornwall/title.jpg
 ---
 
 <font size="6"> Day 1: 3.5 hours train trip from London to Plymouth, Clovelly</font>
-I and my husband had a 6-days vacation to Cornwall, a south-western county in England. I like the sea, it has a sort of therapeutic effect on me. 
+I and my partner had a 6-days vacation to Cornwall, a south-western county in England. I like the sea, it has a sort of therapeutic effect on me. 
 <br />
 We took a train from London which was to take us to Plymouth, from there we were to rent a car and travel to Clovelly.
 Clovelly is a small fishing village in the Devon county. It doesn’t have any paved roads. Every visitor has to buy a ticket for the entry to the place which seems little expensive but I would say that the experience of roaming around that enchanting place is worth the cost of one-time visit. The path to the harbor is quite steep, so it can be strenuous for some people, especially on rainy days because the ‘stone road’ is just paved with stone chunks and hence can get slippery.
@@ -52,12 +52,12 @@ The view just after we started our walk down to the village. It was a pretty day
 </figure>
 <br />
 <br />
-We spent around 1.5-2 hours in this place. Then we headed to our hotel to rest for the night. We stayed at West County Inn hotel.
+We spent around 1.5-2 hours in Clovelly. Then we headed to our hotel to rest for the night. We stayed at West County Inn hotel.
 <img src="/melange-site/assets/images/cornwall/7.jpg"
      alt="West County Inn hotel"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 <br />
-We were ravenous by the time we reached, so we freshened up quickly in order to go for the dinner. We are vegetarians, hence, it is not easy for us to expect great veg items in most of the places(also, because the veg food options are quite limited). But we were in for a surprise this time, in fact all of the meals(vegetarians) we had on this tip was quite delicious. I love it when I can eat good food while being on a trip. That just increases the quality of my vacation.
+We were ravenous by the time we reached, so we freshened up quickly in order to go for the dinner. We are vegetarians, hence, it is not easy for us to expect great vegetarian items in most of the places(also, because the veg food options are quite limited). But we were in for a surprise this time, in fact all of the meals(vegetarians) we had on this tip was quite delicious. I love it when I can eat good food while being on a trip. That just increases the quality of my vacation.
 <br />
 <br />
 <br />
@@ -81,7 +81,7 @@ On the way to our accommodation our first stop was(almost) Padstow. Padstow is s
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 <br />
 <br />
-This beach was pretty raw and rugged, and I think that was one of the reasons what made this because so special. We had our lunch of co-op purchased sandwiches and the cookies at the beach.
+This beach was pretty raw and rugged, and I think that was one of the reasons what made this because so special. We had our lunch of co-op purchased sandwiches and cookies at the beach.
 <img src="/melange-site/assets/images/cornwall/rugged.jpg"
      alt=""
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
@@ -191,7 +191,7 @@ When we finally reached to the waterfall, it was even better. The waterfall is s
 <br />
 <br />
 Next we headed to the Tintagel castle which is known for being the birthplace of King Arthur and for its outstanding views to sea due to the imposing height that it is build on.
-Tintagel bridge is footbridge that connects two cliffs. The height of the bridge(52 meters) can seem terrifying for some people.
+Tintagel bridge is footbridge that connects two cliffs. The height of the bridge(52 meters) can seem terrifying to some people.
 <img src="/melange-site/assets/images/cornwall/bridge.jpg"
      alt=""
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
