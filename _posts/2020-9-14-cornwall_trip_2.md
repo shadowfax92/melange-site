@@ -164,7 +164,7 @@ There was also a climb up a cliff where one can soak in the magnificent views of
      alt=""
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 <br />
-<img src="/assets/images/cornwall_2/polperro4.jpg"
+<img src="/melange-site/assets/images/cornwall_2/polperro4.jpg"
      alt=""
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 <br />
